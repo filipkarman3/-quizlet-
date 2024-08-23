@@ -1,0 +1,3 @@
+frog,rana,0,0,
+to try,intentar;probar;tratar,0,0,
+isolation,aislamento,0,0,
